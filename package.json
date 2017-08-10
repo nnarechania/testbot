@@ -18,6 +18,7 @@
   "homepage": "https://github.com/nnarechania/testbot#readme",
   "dependencies": {
     "node": "^8.2.1",
-    "node-static": "^0.7.9"
+    "node-static": "^0.7.9",
+    "npm": "^5.3.0"
   }
 }
