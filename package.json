@@ -1,16 +1,22 @@
 {
   "name": "testbot",
   "version": "1.0.0",
-  "description": "testing a bot",
+  "description": "static web page server",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Nishal Narechania",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nnarechania/testbot.git"
+  },
+  "author": "Nishal",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nnarechania/testbot/issues"
+  },
+  "homepage": "https://github.com/nnarechania/testbot#readme",
   "dependencies": {
-    "express": "^4.15.4",
-    "http-server": "^0.10.0"
+    "node": "^8.2.1"
   }
 }
