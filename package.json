@@ -5,11 +5,12 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start":"server.js"
+    "start": "server.js"
   },
   "author": "Nishal Narechania",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.15.4",
     "http-server": "^0.10.0"
   }
 }
